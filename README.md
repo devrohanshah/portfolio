@@ -31,8 +31,8 @@ This project showcases my work, skills, and achievements as a **web developer, g
 ## 🚀 How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/devrohanshah/portfolio.git
+   cd portfolio
 2.Install dependencies:
   ```bash
      npm install

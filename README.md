@@ -22,8 +22,6 @@ This project showcases my work, skills, and achievements as a **web developer, g
 
 ## 🛠️ Technologies Used  
 - **Frontend**: React, TypeScript, Tailwind CSS, GSAP  
-- **Backend**: Node.js, Express.js, PHP  
-- **Database**: MySQL, SQLite  
 - **Version Control**: Git  
 
 ---
